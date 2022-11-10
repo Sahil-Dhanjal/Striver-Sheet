@@ -1,0 +1,10 @@
+The interviwers might as you any of the following regarding Pascal's Traingle:
+
+1. Print n rows of the Pascal's Traingle.
+2. there can be some specific element [like 5th row's 2nd Column] given from the triangle which has to be printed.
+3. Or, He might give you the some ith row of the triangle which has to be entirely printed. 
+
+Time Complexity & Space Complexity Analysis for the above Problems:
+1. T.C -> O(n^2) & S.C -> O(n^2)
+2. T.C -> O(n) & S.C -> O(1)
+3. T.C -> O(n) {as got after using the optimized Combinatorial operation} & S.C-> O(n)
